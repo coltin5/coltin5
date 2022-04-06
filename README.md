@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coltin5
-- 👀 I’m interested in OOP and Learning as much as I can about Programming
-- 🌱 I’m currently learning about APIs and Data Structures & Algorithms 
+- 👀 I’m interested in Front End Development!
+- 🌱 I’m currently learning about Responsive Web Design & Mobile Programming 
 - 💞️ I’m looking to collaborate on a Project
 - 📫 How to reach me: Coltin1880@gmail.com
 
