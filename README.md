@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coltin5
-- 👀 I’m interested in Front End Development!
-- 🌱 I’m currently learning about Responsive Web Design & Mobile Programming 
+- 👀 I’m interested in Java & Front End Development!
+- 🌱 I’m currently learning about Java memory management 
 - 💞️ I’m looking to collaborate on a Project
 - 📫 How to reach me: Coltin1880@gmail.com
 
